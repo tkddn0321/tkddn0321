@@ -1,5 +1,5 @@
 <div align="center">
-  꿈꾸는 개발자 임상우입니다.
+  
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/ftfg777?pet-id=596642696921905694" width="23%" height="300"/>
   <a href="https://github.com/devxb/gitanimals">
@@ -12,6 +12,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/tkddn0321"/>
 </a>
+꿈꾸는 개발자 임상우입니다.
 
 ## 🌐 Socials:
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)](https://halved-number-b57.notion.site/58bd900e535141fd913b624e667fca62)
