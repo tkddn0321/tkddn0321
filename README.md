@@ -1,13 +1,13 @@
 <div align="center">
   
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ftfg777?pet-id=596642696921905694" width="20%" height="300"/>
+  <img src="https://render.gitanimals.org/lines/ftfg777?pet-id=596642696921905694" width="23%" height="300"/>
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/seulki-k?pet-id=596866018205001695" width="20%" height="300"/>
+  <img src="https://render.gitanimals.org/lines/seulki-k?pet-id=596866018205001695" width="23%" height="300"/>
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=596865399259950329" width="20%" height="300"/>
+  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=596865399259950329" width="23%" height="300"/>
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=596887672771602739" width="20%" height="300"/>  
+  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=596887672771602739" width="23%" height="300"/>  
 </a>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/tkddn0321"/>
