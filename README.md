@@ -1,4 +1,4 @@
-<div align="">
+<div align="center">
   
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/seulki-k?pet-id=596866018205001695" width="25%" height="120"/>
