@@ -1,3 +1,4 @@
+꿈꾸는 개발자 임상우입니다.
 <div align="center">
   
   <a href="https://github.com/devxb/gitanimals">
@@ -16,7 +17,6 @@
 
 ## 🌐 Socials:
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)](https://halved-number-b57.notion.site/58bd900e535141fd913b624e667fca62)
-꿈꾸는 개발자 임상우입니다.
 # 💻 Tech Stack:
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
