@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://render.gitanimals.org/lines/tkddn0321?pet-id=1" width="25%" height="150"/>
 </div>
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
 
 
 ## 🌐 Socials:
