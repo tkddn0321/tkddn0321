@@ -3,7 +3,7 @@
 </div>
 
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=java&logoColor=white"/>
+
 ## 🌐 Socials:
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)](https://halved-number-b57.notion.site/58bd900e535141fd913b624e667fca62)
 
