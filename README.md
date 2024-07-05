@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=596865399259950329" width="1000" height="1200"/>
+  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=596865399259950329" width="1000" height="500"/>
 </a>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/tkddn0321"/>
